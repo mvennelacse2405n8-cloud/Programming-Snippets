@@ -19,8 +19,8 @@ A collection of programming examples in **Python**, **Java**, and **JavaScript**
 | Program | Link |
 |---------|------|
 | Hello World | [hello.py](python/hello.py) |
-| Factorial | [factorial.py](Python/factorial.py) |
-| Palindrome | [palindrome.py](Python/palindrome.py) |
+| Factorial | [factorial.py](python/factorial.py) |
+| Palindrome | [palindrome.py](python/palindrome.py) |
 
 ---
 
